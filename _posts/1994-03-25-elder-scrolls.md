@@ -8,7 +8,7 @@ playable: "Yes"
 mods: "No"
 type: anthropomorphic
 species: 
-- big cat
+- felid
 - reptile
 emoticon: 
 - 🐈
