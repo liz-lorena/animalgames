@@ -8,8 +8,7 @@ playable: "Yes"
 mods: "No"
 type: realistic
 species: 
-- shark
-- water
+- fish
 emoticon: 
 - 🦈
 genre: 
