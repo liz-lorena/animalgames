@@ -2,9 +2,9 @@
 
 <li class="{% for tags in post.species %}{{ tags }} {% endfor %} {% for tags in post.genre %}{{ tags }} {% endfor %}">
             <div class="uk-card uk-card-primary uk-card-body">
-                <canvas width="100%" height="130"></canvas>
-                <div class="uk-position-center">{{ post.excerpt | truncate: 200 }}</div>
-            </div>
+                <a href="{{ post.link }}" target="_blank"><canvas width="100%" height="130"></canvas>
+                <div class="uk-position-center">{{ post.excerpt | truncate: 200 }}</div></a>
+            </div>           
 </li>
 
 {% endfor %}
