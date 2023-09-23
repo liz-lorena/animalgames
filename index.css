@@ -1,5 +1,5 @@
 
-div#content, header {
+div.header, div.content, div.footer {
 			max-width:1000px;
 			margin:0 auto;
 		}
