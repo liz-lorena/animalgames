@@ -1,1 +1,31 @@
-...
+<div uk-filter="target: .js-filter">
+
+    <div class="uk-grid-small uk-grid-divider uk-child-width-auto" uk-grid>
+        <div>
+            <ul class="uk-subnav uk-subnav-pill" uk-margin>
+                <li class="uk-active" uk-filter-control><a href="#">All</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul class="uk-subnav uk-subnav-pill" uk-margin>
+                <li uk-filter-control="[data-genre='adventure']"><a href="#">Adventure</a></li>                
+            </ul>
+        </div>
+        <div>
+            <ul class="uk-subnav uk-subnav-pill" uk-margin>
+                <li uk-filter-control="[data-animal='canid']"><a href="#">Canid</a></li>                
+            </ul>
+        </div>
+    </div>
+
+    <ul class="js-filter uk-child-width-1-1 uk-text-center" uk-grid="masonry: true">
+        
+        <li data-animal="canid" data-genre="adventure">
+            <div class="uk-card uk-card-primary uk-card-body">
+                <canvas width="100%" height="400"></canvas>
+                <div class="uk-position-center">Item</div>
+            </div>
+        </li>
+    </ul>
+
+</div>
