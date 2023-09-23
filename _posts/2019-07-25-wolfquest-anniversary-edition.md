@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WolfQuest
-date: 2007-12-21
+date: 2019-07-25
 latestdate: 
 artstyle: 3D
 playable: "Yes"
@@ -20,9 +20,10 @@ platform:
 - iOS
 developer: Eduweb
 publisher: Eduweb
-excerpt: Play as a gray wolf in YellowStone National Park! Hunt for food, find a mate, raise puppies, and more in singleplayer. Play with others in online multiplayer.
-link: https://en.wikipedia.org/wiki/WolfQuest
+excerpt: a great remake of a childhood favorite. play as a gray wolf in Yellowstone National Park in this realistic 3d life simulation game.
+link: https://store.steampowered.com/app/926990/WolfQuest_Anniversary_Edition/?curator_clanid=44641011
 img: wolfquest.jpg
+devlink: https://www.wolfquest.org
 suggester: 
 suggesterurl: 
 ---
