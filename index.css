@@ -10,7 +10,6 @@ color:inherit!important;
 
 div.game {
 padding:10px!important;
-border-bottom:1px solid white;
 }
 
 div.game .description {
@@ -20,4 +19,5 @@ text-align:left!important;
 
 ul.games li {
 margin-top:0px!important;	
+border-bottom:1px solid white;
 }
