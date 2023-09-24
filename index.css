@@ -9,7 +9,8 @@ color:inherit!important;
 }
 
 div.game {
-padding:10px!important;	
+padding:10px!important;
+border-bottom:1px solid white;
 }
 
 div.game .description {
