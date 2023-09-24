@@ -14,7 +14,7 @@ emoticon:
 genre: 
 - action-adventure
 platform:
-- PlayStation 2
+- PlayStation
 - Xbox
 - Windows
 developer: Appaloosa Interactive
