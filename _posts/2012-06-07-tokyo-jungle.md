@@ -30,7 +30,7 @@ publisher:
 series: 
 excerpt: In this action survival game, you control one of 80 different species of animals as you try to survive and populate a wild and deserted version of Tokyo city in the distant future.
 link: https://en.wikipedia.org/wiki/Tokyo_Jungle
-img: tokyojungle.png
+img: tokyojungle.jpg
 suggester: 
 suggesterurl:  
 ---
