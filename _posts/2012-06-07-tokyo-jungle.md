@@ -8,10 +8,9 @@ playable: "Yes"
 mods: "No"
 type: realistic
 species: 
-- dog
-- big cat
+- canid
+- felid
 - deer
-- multiple
 emoticon: 
 - 🐶
 - 🦁
@@ -21,8 +20,8 @@ genre:
 - action
 - survival
 platform:
-- PlayStation 3
-- PlayStation Vita
+- PlayStation
+- Vita
 developer: 
 - Crispy's
 - SCE Japan Studio
