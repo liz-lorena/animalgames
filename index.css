@@ -11,3 +11,8 @@ color:inherit;
 div.game {
 padding:5px!important;	
 }
+
+div.game .description {
+text-align:left!important;
+	
+}
