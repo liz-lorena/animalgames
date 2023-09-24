@@ -8,9 +8,10 @@ playable: "Yes"
 mods: "No"
 type: anthropomorphic
 species: 
+- raccoon
 - reptile
-- fox
-- other
+- canid
+- hippo
 emoticon: 
 - 🦝
 - 🦛
