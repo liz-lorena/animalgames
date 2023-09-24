@@ -19,7 +19,24 @@
         </div>
         <div>
             <ul class="uk-subnav uk-subnav-pill" uk-margin>
-                <li uk-filter-control=".canid"><a href="#">Canid</a></li>                
+                {% for post in site.posts %}
+                {% if post.filters != nil %}
+                {% for tags in post.species %}
+                <li uk-filter-control=".{{ tags }}"><a href="#">{{ tags }}</a></li>  
+                {% endfor %}
+                {% endif %}
+                {% endfor %}              
+            </ul>
+        </div>
+        <div>
+            <ul class="uk-subnav uk-subnav-pill" uk-margin>
+                {% for post in site.posts %}
+                {% if post.filters != nil %}
+                {% for tags in post.platform %}
+                <li uk-filter-control=".{{ tags }}"><a href="#">{{ tags }}</a></li>  
+                {% endfor %}
+                {% endif %}
+                {% endfor %}              
             </ul>
         </div>
     </div>
