@@ -2,7 +2,7 @@
 
 <li class="{% for tags in post.species %}{{ tags }} {% endfor %} {% for tags in post.genre %}{{ tags }} {% endfor %}">
             <a href="{{ post.link }}" target="_blank"><div class="uk-card uk-card-primary uk-card-body"><div uk-grid>
-                <div class="uk-width-1-4"><img src="/animalgames{% post.img %}"></div>
+                <div class="uk-width-1-4"><img src="/img/animal-games-database/{% post.img %}"></div>
                         <div class="uk-width-3-4">
                 <div class="uk-position-center">{{ post.excerpt | truncate: 200 }}</div></div></div>
             </div></a>           
