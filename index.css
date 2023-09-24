@@ -16,3 +16,7 @@ div.game .description {
 text-align:left!important;
 	
 }
+
+ul.games li {
+margin-top:0px!important;	
+}
