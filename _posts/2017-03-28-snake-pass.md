@@ -8,7 +8,7 @@ playable: "Yes"
 mods: "No"
 type: anthropomorphc
 species: 
-- snake
+- reptile
 emoticon:
 - 🐍
 genre: 
@@ -16,15 +16,15 @@ genre:
 - platformer
 platform:
 - Windows
-- Nintendo Switch
-- PlayStation 4
-- Xbox One
+- Switch
+- PlayStation
+- Xbox
 developer: 
 - Sumo Digital
 publisher: Sumo Digital
 series: 
-excerpt: In this cute cartoony puzzle platformer play as a snake named Noodle with a hummingbird friend! The challenge of the game centers around the movement mechanic that resembles the slithering of a snake.
-link: https://en.wikipedia.org/wiki/Snake_Pass_(video_game)
+excerpt: in this unique and colorful 3d platformer, play as a goofy snake who's friends with a hummingbird. controls are challenging as it tries to replicate the movement of an actual snake.
+link: https://store.steampowered.com/app/544330/Snake_Pass/?curator_clanid=44641011
 img: snakepass.jpg
 suggester: 
 suggesterurl: 
