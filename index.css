@@ -57,7 +57,7 @@ footer a {
 	background-color:rgba(0,0,0,0);
 }
 
-div.game:hover > .uk-card-primary {
+.uk-card-primary:hover {
 	background-color:rgba(255,255,255,.5)!important;
 }
 
