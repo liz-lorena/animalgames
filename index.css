@@ -41,8 +41,12 @@ p, div.description, footer {
 color:white;
 }
 
-header a, footer a {
+header a {
 	color:#66c0f4;
+}
+
+footer a {
+	color:white;
 }
 
 .uk-card-primary {
