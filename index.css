@@ -9,7 +9,7 @@ color:inherit!important;
 
 div.game {
 padding:10px!important;
-border-top:1px solid white;
+border-top:1px solid #1e3243;
 }
 
 div.game .description {
@@ -29,4 +29,16 @@ header {
 	background-color:#2C415B;
 	overflow:auto;
 	padding:30px 20px;
+}
+
+p, div.description {
+color:white;
+}
+
+header a {
+	color:#66c0f4;
+}
+
+.uk-card-primary {
+	background-color:rgba(0,0,0,0);
 }
