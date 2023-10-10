@@ -27,4 +27,6 @@ margin-top:0px!important;
 
 header {
 	background-color:#2C415B;
+	overflow:auto;
+	padding:30px 20px;
 }
