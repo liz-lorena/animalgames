@@ -54,3 +54,7 @@ header a, footer a {
 	float:left;
 	max-width:222px;
 }
+
+a:hover, a:active, a:focus {
+	text-decoration:none;
+}
