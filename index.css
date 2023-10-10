@@ -55,6 +55,10 @@ header a, footer a {
 	max-width:222px;
 }
 
+.filters li {
+	width:100%;
+}
+
 a:hover, a:active, a:focus {
 	text-decoration:none;
 }
