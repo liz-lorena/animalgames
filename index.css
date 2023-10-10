@@ -31,11 +31,15 @@ header {
 	padding:30px 20px;
 }
 
-p, div.description {
+footer {
+	background-color:#171A21;
+}
+
+p, div.description, footer {
 color:white;
 }
 
-header a {
+header a, footer a {
 	color:#66c0f4;
 }
 
