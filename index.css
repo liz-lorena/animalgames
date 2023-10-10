@@ -1,3 +1,7 @@
+html {
+	background-color:#171A21;
+}
+
 div.header, div.content, div.footer {
 			max-width:940px;
 			margin:0 auto;
