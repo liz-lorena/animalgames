@@ -1,4 +1,3 @@
-
 div.header, div.content, div.footer {
 			max-width:800px;
 			margin:0 auto;
@@ -20,4 +19,8 @@ text-align:left!important;
 
 ul.games li {
 margin-top:0px!important;	
+}
+
+#content {
+	background-color:#18222B;
 }
