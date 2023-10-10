@@ -42,3 +42,8 @@ header a {
 .uk-card-primary {
 	background-color:rgba(0,0,0,0);
 }
+
+.filters {
+	float:left;
+	max-width:222px;
+}
